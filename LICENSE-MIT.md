@@ -2,7 +2,7 @@
 
 All code in this repository is licensed under the MIT License.
 
-[`![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)`](https://github.com/DataEden/dataeden-website/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/DataEden/dataeden-website/blob/main/LICENSE)
 
 
 Copyright (c) 2025 Fari Lindo
