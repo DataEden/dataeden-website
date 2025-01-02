@@ -1,14 +1,43 @@
-## DataEden-Website for My Professional Development Portfolio Pages: ##
-**🌟 Welcome to my Professional Development Portfolio! 🌟**
-- This repository showcases my achievements, including certifications, course completions, and academic milestones, reflecting my journey in Data Science, AI/ML, IT, and the Tech field generally.
+# DataEden Website for My Professional Development Portfolio Pages
 
-📜 Certifications
+**🌟 Welcome to the DataEden Website Repository! 🌟**
+
+> **About This Repository**:  
+> This repository houses the files and structure for my professional development website, [https://dataeden.org](https://dataeden.org). The site showcases my achievements, projects, and ongoing journey in Data Science, AI/ML, IT, and other tech fields.
+
+---
+
+## Purpose
+The primary goal of this repository is to serve as the platform for my professional development portfolio, providing:
+- A central hub for displaying certifications, academic accomplishments, and completed projects.
+- A way to highlight my expertise and aspirations in various technical domains.
+- An easily navigable resource for collaborators, recruiters, and visitors interested in my work.
+
+---
+
+## Repository Structure
+The repository is organized as follows:--
+# Repository Structure: `dataeden-website`
+
+```plaintext
+dataeden-website/
+├── index.html          # Main entry point for the website
+├── style.css           # CSS for the site's layout and design
+├── script.js           # Optional JavaScript functionality
+├── assets/             # Images, logos, and other media files
+├── LICENSE-MIT         # License for code in this repository
+├── LICENSE-CC-BY       # License for non-code content in this repository
+└── README.md           # Repository overview and usage instructions
+```
+## Certifications
 **Professional Certifications**
 - **AWS Certified Cloud Practitioner**  
   Issued by Amazon Web Services  
   [View Certificate](Certifications/AWS/Certified_Cloud_Practitioner.pdf)
 
-📄 Certificates of Completion
+---
+
+## Certificates of Completion
 **Coursera**
 - **AI Programming with Python**  
   Issued by: Udacity  
@@ -18,7 +47,9 @@
   Instructor: Meta  
   [View Certificate](Courses/Coursera/Meta/Meta_Marketing_Analytics_Foundations_Certificate.pdf)
 
-🎓 Academic Achievements
+---
+
+## Academic Achievements
 - **Associate Degree in Computer Science**  
   Institution: Medgar Evers College (CUNY)  
   [View Diploma](Academic/Associate_Computer_Science.jpg)
@@ -34,4 +65,4 @@ I am committed to lifelong learning and plan to pursue:
 ---
 
 ### ✉️ Contact Me
-For inquiries or collaborations, reach out at [datainsidedata[at]gmail[dot]com](mailto:datainsidedata@gmail.com). 
+For inquiries or collaborations, reach out at [datainsidedata[at]gmail[dot]com](mailto:datainsidedata@gmail.com).
